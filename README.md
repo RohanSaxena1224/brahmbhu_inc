@@ -1,5 +1,5 @@
 # Introduction
-This is a simple shop app that currently enables users to place orders, favorite items and view their purchasing history. Currently working on allowing them to add new products and edit descriptions and prices of previous orders. Below are a few screenshots. 
+This is a simple shop app that currently enables users to place orders, favorite items and view their purchasing history. I am creating this is a sample app for my dad's business that sells biodegradable plates which I do not have photos of yet thus the generic items. Below are a few screenshots of the app. 
 
 
 # The Home Page
